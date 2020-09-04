@@ -1,5 +1,5 @@
-# List of Coding Exercises/Projects:
+# List of Small Coding Exercises/Projects:
 
 1) Data Cleaning (Codecademy): Perform the basics of data cleaning.
-2) Supervised Learning (Udacity): Finding Donors for CharityML
-3) Deep Learning: Image Classification with Deep Learning
+2) Finding Donors for CharityML (Udacity): Supervised Learning
+3) Image Classification: Deep Learning
