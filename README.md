@@ -1,2 +1,2 @@
-# Small_Exercises
+# Small Coding Exercises
 Collection of coding exercises.
